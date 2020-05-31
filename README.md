@@ -1,2 +1,0 @@
-# mb
-message board app
